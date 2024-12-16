@@ -35,7 +35,7 @@
             "storage": "data.sqlite"
         }
     },
-    "APPSTATEPATH": "𝑴𝒓𝑼𝒛𝒂𝒊𝒓𝑿𝒙𝑿-𝑴𝑻𝑿.json",
+    "APPSTATEPATH": "appsatate.json",
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
